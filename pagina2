@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Página 2 - [Tema]</title>
+</head>
+<body style="background-color: #f0f8ff; font-family: Arial,
+sans-serif;">
+<h1 style="color: darkred;">Más información sobre [tema]</h1>
+<p>Esta es la segunda página del sitio web.</p>
+<hr>
+<p>Volver a la <a href="index.html">página principal</a>.</p>
+</body>
+</html>
